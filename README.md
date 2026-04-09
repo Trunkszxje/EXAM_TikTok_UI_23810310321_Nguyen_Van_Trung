@@ -50,9 +50,9 @@ npx expo start
 
 ## Cau truc thu muc chinh
 
-- `App.js`: khai bao navigator va 3 man hinh
-- `figma/`: cac anh export tu Figma duoc dung de canh layout
-- `screenshots/`: anh chup cho 3 man hinh theo yeu cau de bai
+- `App.js`: Khai bao navigator va 3 man hinh
+- `figma/`: Cac anh export tu Figma duoc dung de canh layout
+- `screenshots/`: Anh chup cho 3 man hinh theo yeu cau de bai
 
 ## Anh chup man hinh
 
